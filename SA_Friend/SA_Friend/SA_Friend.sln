@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SA_Friend", "SA_Friend\SA_Friend.vcxproj", "{FD291371-902E-4B2D-9070-4B0910B800D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SA_Friend_Setup", "..\..\..\..\..\..\Developement\telnet samples\1\Setup2\Setup2\Setup2.vdproj", "{FEB558ED-C116-4E23-B3EC-07B814CE0BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD291371-902E-4B2D-9070-4B0910B800D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD291371-902E-4B2D-9070-4B0910B800D0}.Debug|Win32.Build.0 = Debug|Win32
+		{FD291371-902E-4B2D-9070-4B0910B800D0}.Release|Win32.ActiveCfg = Release|Win32
+		{FD291371-902E-4B2D-9070-4B0910B800D0}.Release|Win32.Build.0 = Release|Win32
+		{FEB558ED-C116-4E23-B3EC-07B814CE0BAA}.Debug|Win32.ActiveCfg = Debug
+		{FEB558ED-C116-4E23-B3EC-07B814CE0BAA}.Debug|Win32.Build.0 = Debug
+		{FEB558ED-C116-4E23-B3EC-07B814CE0BAA}.Release|Win32.ActiveCfg = Release
+		{FEB558ED-C116-4E23-B3EC-07B814CE0BAA}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
